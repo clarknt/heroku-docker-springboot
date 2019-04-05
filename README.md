@@ -1,8 +1,8 @@
 # heroku-docker-springboot
-Sample setup for publishing a Spring Boot app on Heroku within a Docker container
+Sample setup for publishing a Spring Boot app on Heroku within a Docker container.
 
 Adapted from these official sources:
-- [Dockerizing a Node.js web app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+- [Spring Boot with Docker](https://spring.io/guides/gs/spring-boot-docker/)
 - [Container Registry & Runtime (Docker Deploys)](https://devcenter.heroku.com/articles/container-registry-and-runtime)
 
 ## Local launch
