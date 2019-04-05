@@ -11,7 +11,7 @@ public class MainApplication {
 
 	@GetMapping("/")
     String getRoot() {
-      return "Hello from Spring Boot within Docker";
+      return "Hello from Spring Boot within Docker\n";
 	}
 
 	public static void main(String[] args) {
