@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class MainApplication {
 
 	@GetMapping("/")
-    String getRoot() {
-      return "Hello from Spring Boot within Docker\n";
+		String getRoot() {
+			return "Hello from Spring Boot within Docker\n";
 	}
 
 	public static void main(String[] args) {
